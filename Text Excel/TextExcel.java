@@ -1,14 +1,3 @@
-/**********************************************************
- * Assignment: (Text Excel)
- *
- * Author: (Nafis Rahman)
- *
- * Description: (It takes a command that inputs string, numbers or date and print)
- *
- * Academic Integrity: I pledge that this program represents my own work. I
- * received help from ( ) in designing and debugging
- * my program.!
- **********************************************************/
 package textExcel5;
 
 import java.util.Scanner;
