@@ -1,14 +1,3 @@
-/**********************************************************
- * Assignment: (Spreadsheet)
- *
- * Author: (Nafis Rahman)
- *
- * Description: (It prints the whole spreadsheet)
- *
- * Academic Integrity: I pledge that this program represents my own work. I
- * received help from (my mentor who is a software engineer) in designing and debugging
- * my program.!
- **********************************************************/
 package textExcel5;
 
 /* Spreadsheet stores a 2d array of Cell objects and is able to 
